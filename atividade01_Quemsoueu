@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Quem sou eu - ozimar</title>
+</head>
+
+<body>
+    <header>
+        <h1>ozimar</h1>
+        <p>Sou aluna do curso de Desenvolvimento de sistemas .</p>
+    </header>
+
+    <body>
+        
+            <h2>Sobre mim</h2>
+
+            <p>
+                Meu nome é ozimar. estou
+                aprendendo desenvolvimento web 
+            </p>
+               
+            <p>
+             Gosto de aprender coisas novas e estou sempre melhorar
+            </p>
+    
+            <h2>Objetivos e interesses</h2>
+
+            <p>
+                gostaria de aprender e evoluir  na area da tecnologia
+                meu objetivo é continuar estudando
+
+            </p>
+        
+        </body>
+
+    <footer>
+        <p>ozimar@2026</p>
+    </footer>
+</body>
+</html>
+
